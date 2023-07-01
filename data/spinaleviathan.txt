@@ -26,7 +26,7 @@ outfit "Wanderlust Mortar"
 		"shield damage" 825
 		"hull damage" 630
 		"blast radius" 25
-	description "This oversized energy weapon is found as a pair aboard the Wanderlust. Larger than any other human weapon, the WLC fires long-ranged energy bolts that deal significant on-target damage."
+	description "This oversized energy weapon is found as a pair aboard the Wanderlust. Larger than any other human weapon, the WLM fires long-ranged energy bolts that deal significant on-target damage."
 	description "Though hard to believe, it seems as though this weapon is distantly related to the Energy Blaster."
 	
 effect "wanderlust trail"
@@ -47,6 +47,7 @@ ship "Marauder Leviathan" "Marauder Leviathan (Spinals)"
 	sprite "ship/mleviathansp"
 	thumbnail "thumbnail/mleviathanw"
 	add attributes
+		"spinal mount" 2
 		"weapon capacity" 70
 	outfits
 		"Wanderlust Mortar" 2
